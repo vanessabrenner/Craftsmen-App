@@ -5,11 +5,11 @@ Craftsmen App is a user-friendly platform designed to connect clients in need of
 
 Clients can easily discover craftsmen based on their location, expertise, and reviews, helping them find the perfect professional for the job. Craftsmen can browse available tasks, submit quotes, and receive valuable feedback based on their performance.
 
-## Main Features ⭐
+## Main Features 📝
 
 - **Post Service Requests 📝**: Clients can create detailed requests specifying their needs, including the project timeline and other preferences.
 - **Browse & Accept Tasks 🔍**: Craftsmen can search for tasks that match their skillset and choose which ones to accept.
-- **Review & Rating System ⭐⭐⭐⭐⭐**: A comprehensive system that allows clients and craftsmen to rate each other after each project, ensuring quality.
+- **Review & Rating System ⭐**: A comprehensive system that allows clients and craftsmen to rate each other after each project, ensuring quality.
 - **User Profiles 👤**: Both clients and craftsmen can maintain personalized profiles that reflect their service history and feedback.
 - **Search & Filters 🔧**: Advanced search features allow clients to filter results by location, skill, and user ratings.
 - **In-App Messaging 💬**: Clients and craftsmen can communicate directly via secure in-app messaging, ensuring clarity throughout the project.
